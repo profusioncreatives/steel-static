@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-item.active {
+    background-color: var(--bs-primary);
+    padding: 10px 20px;
+}
+
+.nav-item.active .nav-link {
+    color: var(--bs-white);
+}
